@@ -1,0 +1,96 @@
+Dinamo Zagreb|18-09-2012|Porto|
+PSG|18-09-2012|Dynamo Kyiv|
+Montpellier|18-09-2012|Arsenal|
+Olympiacos|18-09-2012|Schalke|
+Malaga|18-09-2012|Zenit|
+Milan|18-09-2012|Anderlecht|
+Dortmund|18-09-2012|Ajax|
+Real Madrid|18-09-2012|Man. City|
+Shakhtar Donetsk|19-09-2012|Nordsjaelland|
+Chelsea|19-09-2012|Juventus|
+LOSC|19-09-2012|BATE|
+Bayern|19-09-2012|Valencia|
+Barcelona|19-09-2012|Spartak Moskva|
+Celtic|19-09-2012|Benfica|
+Man. United|19-09-2012|Galatasaray|
+Braga|19-09-2012|CFR Cluj|
+Spartak Moskva|02-10-2012|Celtic|
+CFR Cluj|02-10-2012|Man. United|
+Galatasaray|02-10-2012|Braga|
+Juventus|02-10-2012|Shakhtar Donetsk|
+Nordsjaelland|02-10-2012|Chelsea|
+Valencia|02-10-2012|LOSC|
+BATE|02-10-2012|Bayern|
+Benfica|02-10-2012|Barcelona|
+Zenit|03-10-2012|Milan|
+Man. City|03-10-2012|Dortmund|
+Ajax|03-10-2012|Real Madrid|
+Dynamo Kyiv|03-10-2012|Dinamo Zagreb|
+Porto|03-10-2012|PSG|
+Schalke|03-10-2012|Montpellier|
+Arsenal|03-10-2012|Olympiacos|
+Anderlecht|03-10-2012|Malaga|
+Spartak Moskva|23-10-2012|Benfica|
+Barcelona|23-10-2012|Celtic|
+Galatasaray|23-10-2012|CFR Cluj|
+Man. United|23-10-2012|Braga|
+Nordsjaelland|23-10-2012|Juventus|
+Shakhtar Donetsk|23-10-2012|Chelsea|
+BATE|23-10-2012|Valencia|
+LOSC|23-10-2012|Bayern|
+Zenit|24-10-2012|Anderlecht|
+Malaga|24-10-2012|Milan|
+Ajax|24-10-2012|Man. City|
+Dortmund|24-10-2012|Real Madrid|
+Porto|24-10-2012|Dynamo Kyiv|
+Dinamo Zagreb|24-10-2012|PSG|
+Arsenal|24-10-2012|Schalke|
+Montpellier|24-10-2012|Olympiacos|
+Dynamo Kyiv|06-11-2012|Porto|
+PSG|06-11-2012|Dinamo Zagreb|
+Schalke|06-11-2012|Arsenal|
+Olympiacos|06-11-2012|Montpellier|
+Anderlecht|06-11-2012|Zenit|
+Milan|06-11-2012|Malaga|
+Man. City|06-11-2012|Ajax|
+Real Madrid|06-11-2012|Dortmund|
+Juventus|07-11-2012|Nordsjaelland|
+Chelsea|07-11-2012|Shakhtar Donetsk|
+Valencia|07-11-2012|BATE|
+Bayern|07-11-2012|LOSC|
+Benfica|07-11-2012|Spartak Moskva|
+Celtic|07-11-2012|Barcelona|
+CFR Cluj|07-11-2012|Galatasaray|
+Braga|07-11-2012|Man. United|
+BATE|20-11-2012|LOSC|
+Spartak Moskva|20-11-2012|Barcelona|
+Benfica|20-11-2012|Celtic|
+Galatasaray|20-11-2012|Man. United|
+CFR Cluj|20-11-2012|Braga|
+Valencia|20-11-2012|Bayern|
+Nordsjaelland|20-11-2012|Shakhtar Donetsk|
+Juventus|20-11-2012|Chelsea|
+Zenit|21-11-2012|Malaga|
+Anderlecht|21-11-2012|Milan|
+Ajax|21-11-2012|Dortmund|
+Man. City|21-11-2012|Real Madrid|
+Porto|21-11-2012|Dinamo Zagreb|
+Dynamo Kyiv|21-11-2012|PSG|
+Arsenal|21-11-2012|Montpellier|
+Schalke|21-11-2012|Olympiacos|
+Dinamo Zagreb|04-12-2012|Dynamo Kyiv|
+PSG|04-12-2012|Porto|
+Montpellier|04-12-2012|Schalke|
+Olympiacos|04-12-2012|Arsenal|
+Malaga|04-12-2012|Anderlecht|
+Milan|04-12-2012|Zenit|
+Dortmund|04-12-2012|Man. City|
+Real Madrid|04-12-2012|Ajax|
+Shakhtar Donetsk|05-12-2012|Juventus|
+Chelsea|05-12-2012|Nordsjaelland|
+LOSC|05-12-2012|Valencia|
+Bayern|05-12-2012|BATE|
+Barcelona|05-12-2012|Benfica|
+Celtic|05-12-2012|Spartak Moskva|
+Man. United|05-12-2012|CFR Cluj|
+Braga|05-12-2012|Galatasaray|

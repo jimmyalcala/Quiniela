@@ -1,0 +1,4 @@
+A|E|1|Espana|Italia|Grecia|Escocia|Dinamarca|
+B|F|2|Inglaterra|Ucrania|Francia|Bielorrusia|Venezuela|
+C|G|3|Alemania|Turquia|Holanda|Croacia|Brazil|
+D|H|4|Portugal|Rusia|Belgica|Rumania|Argentina|

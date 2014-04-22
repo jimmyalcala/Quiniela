@@ -1,0 +1,32 @@
+Barcelona|Espana|1|G|
+Real Madrid|Espana|1|D|
+Man. United|Inglaterra|1|H|
+Bayern|Alemania|1|F|
+Chelsea|Inglaterra|1|E|
+Arsenal|Inglaterra|1|B|
+Porto|Portugal|1|A|
+Milan|Italia|1|C|
+Valencia|Espana|2|F|
+Benfica|Portugal|2|G|
+Shakhtar Donetsk|Ucrania|2|E|
+Zenit|Rusia|2|C|
+Schalke|Alemania|2|B|
+Man. City|Inglaterra|2|D|
+Dynamo Kyiv|Ucrania|2|A|
+Braga|Portugal|2|H|
+Juventus|Italia|3|E|
+Galatasaray|Turquia|3|H|
+LOSC|Francia|3|F|
+Olympiacos|Grecia|3|B|
+Ajax|Holanda|3|D|
+PSG|Francia|3|A|
+Anderlecht|Belgica|3|C|
+Spartak Moskva|Rusia|3|G|
+Dortmund|Alemania|4|D|
+Celtic|Escocia|4|G|
+BATE|Bielorrusia|4|F|
+Dinamo Zagreb|Croacia|4|A|
+CFR Cluj|Rumania|4|H|
+Montpellier|Francia|4|B|
+Malaga|Espana|4|C|
+Nordsjaelland|Dinamarca|4|E|
